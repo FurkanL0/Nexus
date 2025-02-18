@@ -38,6 +38,9 @@ curl https://cli.nexus.xyz/ | sh
  - It will ask for confirmation, type Y and enter.
 - It will ask for confirmation again, type Y and enter. It will download.
 
+![image](https://github.com/user-attachments/assets/8d0e09ad-0e69-485b-842f-712c3f02b7bd)
+
+- It will create an id automatically.
 
 ## Web : 
 
