@@ -38,6 +38,10 @@ source $HOME/.cargo/env
 # 3. Nexus CLI : 
 
 ```bash
+screen -S nexus
+```
+
+```bash
 curl https://cli.nexus.xyz/ | sh
 ```
 
