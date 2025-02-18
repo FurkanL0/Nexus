@@ -41,6 +41,15 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
 
+```bash
+sudo apt remove -y protobuf-compiler
+sudo curl -LO https://github.com/protocolbuffers/protobuf/releases/download/v21.12/protoc-21.12-linux-x86_64.zip
+sudo apt install unzip
+sudo unzip protoc-21.12-linux-x86_64.zip -d /usr/local
+sudo chmod +x /usr/local/bin/protoc
+rm protoc-21.12-linux-x86_64.zip
+```
+
 # 3. Nexus CLI : 
 
 ```bash
