@@ -35,6 +35,8 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
+ - It will ask for confirmation, type Y and enter.
+- It will ask for confirmation again, type Y and enter. It will download.
 
 
 ## Web : 
