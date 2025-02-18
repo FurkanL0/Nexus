@@ -42,7 +42,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 source $HOME/.cargo/env
 ```
-
+```bash
 sudo apt remove -y protobuf-compiler
 sudo curl -LO https://github.com/protocolbuffers/protobuf/releases/download/v21.12/protoc-21.12-linux-x86_64.zip
 sudo apt install unzip
