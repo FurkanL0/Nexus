@@ -31,7 +31,12 @@ sudo apt update -y && sudo apt upgrade -y
 ```bash
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
-
+```bash
+curl https://sh.rustup.rs -sSf | sh
+```
+```bash
+source $HOME/.cargo/env
+```
 # 3. Nexus CLI : 
 
 ```bash
