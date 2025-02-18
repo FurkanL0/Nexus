@@ -41,6 +41,10 @@ curl https://cli.nexus.xyz/ | sh
 - Onay isteyecek Y yazıp enterleyin.
 - Yeniden onay isteyecek Y yazıp enterleyin. İndirme yapacak.
 
+![image](https://github.com/user-attachments/assets/8d0e09ad-0e69-485b-842f-712c3f02b7bd)
+
+- Otomatik bir id oluşturacak.
+
 ## Web : 
 
 ![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
