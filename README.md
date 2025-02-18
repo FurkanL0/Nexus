@@ -35,6 +35,10 @@ curl https://sh.rustup.rs -sSf | sh
 ```bash
 source $HOME/.cargo/env
 ```
+
+```bash
+sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
+```
 # 3. Nexus CLI : 
 
 ```bash
