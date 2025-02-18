@@ -46,6 +46,11 @@ screen -S nexus
 curl https://cli.nexus.xyz/ | sh
 ```
 
+![image](https://github.com/user-attachments/assets/36587c62-f46f-4625-8310-414457aa4186)
+
+![image](https://github.com/user-attachments/assets/53fc86b1-6c86-4d70-8716-60095f645419)
+
+![image](https://github.com/user-attachments/assets/656f0c05-d5d3-4c9e-a542-97d349d87ef0)
 
 ## Web : 
 
