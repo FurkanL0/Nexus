@@ -13,6 +13,14 @@
 | **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Ucuz / Kredi Kartı / Kripto İle Ödeme |
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Ucuz / Kredi Kartı / Paypal |
 
+
+## Web / Kayıt : 
+
+-  https://app.nexus.xyz/ - Siteye sağ üstten cüzdan ve mail ile kayıt olun - eski testnete girdiğiniz ile girmeniz daha ii olur.
+
+
+
+
 ## 1. Sunucuyu Güncelleyelim : 
 
 ```bash
@@ -24,8 +32,11 @@ sudo apt update -y && sudo apt upgrade -y
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
 
+# 3. Nexus CLI : 
 
-
+```bash
+curl https://cli.nexus.xyz/ | sh
+```
 
 ## Web : 
 
