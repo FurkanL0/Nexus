@@ -45,9 +45,6 @@ screen -S nexus
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
-![image](https://github.com/user-attachments/assets/78d8b847-ec2b-4b81-b805-b51ea1321f8f)
-
-- 1 yazıp enterleyin.
 
 
 ## Web : 
