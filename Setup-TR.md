@@ -31,15 +31,16 @@ sudo apt update -y && sudo apt upgrade -y
 ```bash
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
-```bash
-curl https://sh.rustup.rs -sSf | sh
-```
-- 1
-```bash
-source $HOME/.cargo/env
-```
+
 ```bash
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
+```
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```bash
+source $HOME/.cargo/env
 ```
 # 3. Nexus CLI : 
 
