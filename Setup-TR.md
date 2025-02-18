@@ -38,6 +38,9 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 curl https://cli.nexus.xyz/ | sh
 ```
 
+- Onay isteyecek Y yazıp enterleyin.
+- Yeniden onay isteyecek Y yazıp enterleyin. İndirme yapacak.
+
 ## Web : 
 
 ![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
