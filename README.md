@@ -15,6 +15,10 @@
 | **PQ**      | [Link](https://pq.hosting/?from=627713)                  | Cheap / Crypto Payment |
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
 
+# Web / Sing Up : 
+
+-  https://app.nexus.xyz/ - Register on the site with your wallet and email at the top right - it's better to use the same one you used on the old testnet.
+
 ## 1. Server Update : 
 
 ```bash
