@@ -50,7 +50,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 source $HOME/.cargo/env
 ```
-
+```bash
+rustup target add riscv32i-unknown-none-elf
+```
 # 3. Nexus CLI : 
 
 ```bash
