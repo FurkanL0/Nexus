@@ -69,7 +69,7 @@ curl https://cli.nexus.xyz/ | sh
 
 ![image](https://github.com/user-attachments/assets/dbba1476-b2d2-4710-929e-d014582cb19a)
 
-- Enter your ID.
+## Fist 2 and Enter your ID.
 
 
 ## Web : 
