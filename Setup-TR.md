@@ -49,6 +49,8 @@ rm protoc-21.12-linux-x86_64.zip
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+- 1 yazın enterleyin sorarsa.
+
 ```bash
 source $HOME/.cargo/env
 ```
