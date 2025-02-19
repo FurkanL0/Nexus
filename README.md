@@ -8,6 +8,7 @@
 | **RAM**          | 9++ GB                     |
 | **Storage**      | 50 GB SDD                   |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) |
+| **Image**      | Ubuntu 22.04 |
 
 | Server Provider        | Link              | Features |
 |------------------|----------------------------|----------------------------|
