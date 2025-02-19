@@ -3,7 +3,7 @@
 | X        | Minimum              |
 |------------------|----------------------------|
 | **CPU**          | 4 |
-| **RAM**          | 8 GB                     |
+| **RAM**          | 9++ GB                     |
 | **Storage**      | 50 GB SDD                   |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) |
 
@@ -72,7 +72,8 @@ rustup target add riscv32i-unknown-none-elf
 ```
 
 ```bash
-curl https://cli.nexus.xyz/ | sh
+cd ~/.nexus/network-api/clients/cli/
+cargo run -r -- --start --beta
 ```
 
 ![image](https://github.com/user-attachments/assets/36587c62-f46f-4625-8310-414457aa4186)
