@@ -79,4 +79,9 @@ curl https://cli.nexus.xyz/ | sh
 
 ![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
 
-- Link : https://app.nexus.xyz/
+## Link : https://app.nexus.xyz/
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
