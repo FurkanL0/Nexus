@@ -63,18 +63,6 @@ screen -S nexus
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
-```bash
-cd ~/.nexus/network-api/clients/cli/
-cargo run -r -- --start --beta
-```
-```bash
-rustup target add riscv32i-unknown-none-elf
-```
-
-```bash
-cd ~/.nexus/network-api/clients/cli/
-cargo run -r -- --start --beta
-```
 
 ![image](https://github.com/user-attachments/assets/36587c62-f46f-4625-8310-414457aa4186)
 
