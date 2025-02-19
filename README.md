@@ -5,7 +5,7 @@
 | X        | Minimum              |
 |------------------|----------------------------|
 | **CPU**          | 4 |
-| **RAM**          | 8 GB                     |
+| **RAM**          | 9++ GB                     |
 | **Storage**      | 50 GB SDD                   |
 | **Network**      | 100 Mbps (1 Gbps+ recommended) |
 
