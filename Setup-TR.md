@@ -74,6 +74,9 @@ curl https://cli.nexus.xyz/ | sh
 
 ## 1 mi 2 mi dediği kısımda 2 'yi seçip siteden aldığınız ID'yi yazın.
 
+![image](https://github.com/user-attachments/assets/c7a48e7b-f2d8-4601-aea4-3d4b6b4c5944)
+
+
 ## Web : 
 
 ![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
