@@ -69,7 +69,8 @@ rustup target add riscv32i-unknown-none-elf
 ```
 
 ```bash
-curl https://cli.nexus.xyz/ | sh
+cd ~/.nexus/network-api/clients/cli/
+cargo run -r -- --start --beta
 ```
 
 ## Web : 
