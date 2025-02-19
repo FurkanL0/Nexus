@@ -36,12 +36,7 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
 
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-```bash
-source $HOME/.cargo/env
-```
+
 ```bash
 sudo apt remove -y protobuf-compiler
 sudo curl -LO https://github.com/protocolbuffers/protobuf/releases/download/v21.12/protoc-21.12-linux-x86_64.zip
@@ -51,12 +46,31 @@ sudo chmod +x /usr/local/bin/protoc
 rm protoc-21.12-linux-x86_64.zip
 ```
 
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```bash
+source $HOME/.cargo/env
+```
+
 
 # 3. Nexus CLI : 
 
 ```bash
 screen -S nexus
 ```
+
+```bash
+curl https://cli.nexus.xyz/ | sh
+```
+```bash
+cd ~/.nexus/network-api/clients/cli/
+cargo run -r -- --start --beta
+```
+```bash
+rustup target add riscv32i-unknown-none-elf
+```
+
 ```bash
 curl https://cli.nexus.xyz/ | sh
 ```
