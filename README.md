@@ -34,12 +34,6 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 sudo apt install build-essential pkg-config libssl-dev git-all protobuf-compiler
 ```
 
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-```bash
-source $HOME/.cargo/env
-```
 
 ```bash
 sudo apt remove -y protobuf-compiler
@@ -48,6 +42,13 @@ sudo apt install unzip
 sudo unzip protoc-21.12-linux-x86_64.zip -d /usr/local
 sudo chmod +x /usr/local/bin/protoc
 rm protoc-21.12-linux-x86_64.zip
+```
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```bash
+source $HOME/.cargo/env
 ```
 
 # 3. Nexus CLI : 
