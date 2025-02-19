@@ -67,6 +67,11 @@ curl https://cli.nexus.xyz/ | sh
 ![image](https://github.com/user-attachments/assets/656f0c05-d5d3-4c9e-a542-97d349d87ef0)
 
 
+![image](https://github.com/user-attachments/assets/dbba1476-b2d2-4710-929e-d014582cb19a)
+
+- Enter your ID.
+
+
 ## Web : 
 
 ![image](https://github.com/user-attachments/assets/711cde21-4716-4850-a901-558f79071196)
